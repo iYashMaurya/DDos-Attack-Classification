@@ -19,7 +19,5 @@ Toward Generating a New Intrusion Detection Dataset and Intrusion
 Traffic Characterization
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
